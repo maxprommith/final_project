@@ -1,0 +1,35 @@
+/* .box {
+    border-radius: 40px;
+	padding: 50px;
+	margin: 50px 100px;
+	background-color: #F2F2F2;
+	box-shadow: 2px 2px 8px 4px rgba(0, 0, 0, 0.1);
+} */
+
+
+table {
+    width: 100%;
+  }
+
+tr {
+    width: 100%;
+}
+
+td {
+    text-align: center;
+    height: 40px;
+  }
+
+th {
+    height: 50px;
+  }
+
+.details-box {
+    display: flex;
+    justify-content: space-between;
+    border-radius: 40px;
+	padding: 50px;
+	margin: 50px 100px;
+	background-color: #e9a93c89;
+	box-shadow: 2px 2px 8px 4px rgba(0, 0, 0, 0.1);
+}

@@ -1,0 +1,14 @@
+.text-box {
+    border-radius: 40px;
+	padding: 20px;
+	margin: 50px;
+	background-color: #F2F2F2;
+	box-shadow: 2px 2px 8px 4px rgba(0, 0, 0, 0.1);
+}
+
+input[type=text] {
+    width: 80%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
